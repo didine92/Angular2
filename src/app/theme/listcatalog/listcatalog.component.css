@@ -1,0 +1,30 @@
+table {
+	width: 100%;
+}
+
+.mat-form-field {
+	font-size: 14px;
+	width: 100%;
+}
+
+td, th {
+	width: 10%;
+}
+
+.mat-row {
+	height: 20px;
+}
+
+.mat-row:nth-child(even){
+	background-color:white;
+}
+
+.mat-row:nth-child(odd){
+	background-color:#eeeeee;
+}
+
+.mat-card {
+	width: 900px;
+	margin: 40px auto;
+}
+
